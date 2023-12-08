@@ -1,0 +1,11 @@
+scikit-learn
+requests
+pandas
+bs4
+numpy
+plotly
+dash
+django
+datetime
+ipykernel
+nbformat
