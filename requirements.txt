@@ -9,3 +9,6 @@ django
 datetime
 ipykernel
 nbformat
+polars
+yahoo-finance
+yahoofinancials
