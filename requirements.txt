@@ -12,3 +12,4 @@ nbformat
 polars
 yahoo-finance
 yahoofinancials
+matplotlib
